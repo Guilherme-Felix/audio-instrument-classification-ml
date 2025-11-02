@@ -1,6 +1,6 @@
 # Classificação de Timbres de Instrumentos Musicais com Machine Learning
 
-**Projeto de Bacharelado em Engenharia Computacional** | Um pipeline completo de Data Science para classificação de instrumentos musicais através de análise espectral.
+**Projeto de Bacharelado em Engenharia Computacional** | Um pipeline completo para classificação de instrumentos musicais através de análise espectral.
 
 ## 🎯 Objetivo
 Desenvolver um sistema de classificação automática que identifique 8 instrumentos musicais diferentes baseado em características espectrais do áudio.
