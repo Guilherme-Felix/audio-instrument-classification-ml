@@ -2,10 +2,10 @@
 
 **Projeto de Bacharelado em Engenharia Computacional** | Um pipeline completo para classificação de instrumentos musicais através de análise espectral.
 
-## 🎯 Objetivo
+## Objetivo
 Desenvolver um sistema de classificação automática que identifique 8 instrumentos musicais diferentes baseado em características espectrais do áudio.
 
-## 📊 Fluxo de Trabalho de Dados
+## Fluxo de Trabalho de Dados
 1. **Aquisição de Dados** - Banco de sons instrumentais
 2. **Pré-processamento** - Transformada de Fourier, normalização
 3. **Engenharia de Features** - Extração de características espectrais:
@@ -15,7 +15,7 @@ Desenvolver um sistema de classificação automática que identifique 8 instrume
 4. **Modelagem** - Algoritmo K-Nearest Neighbors (KNN)
 5. **Validação** - Métricas de acurácia e precisão
 
-## 🛠️ Stack Tecnológico
+## Tecnologias | Bibliotecas
 - **Linguagem:** Python
 - **Processamento de Sinais:** NumPy, SciPy
 - **Machine Learning:** Scikit-learn
